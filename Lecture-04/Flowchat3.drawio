@@ -1,0 +1,49 @@
+<mxfile host="65bd71144e">
+    <diagram id="Tpw1BL0gCpZx_qnOtxH-" name="Page-1">
+        <mxGraphModel dx="985" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="112" y="60" width="130" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Read input string from the user" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#fff2cc;strokeColor=#000000;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="63" y="130" width="228" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Initialize an empty string for the result" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="32" y="230" width="290" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Define vowels as &quot;aeiouAEIOU&quot;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="71" y="290" width="229" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="167" y="350" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="More characters in string?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="94.5" y="390" width="165" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Print the modified string" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="75" y="560" width="205" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="115" y="720" width="125" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Convert charcter to uppercase" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="283" y="445" width="227" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Is character a vowel?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="299.75" y="510" width="178.5" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="App the uppercase character to the result" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="271.5" y="725" width="308.5" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Add an asterisk to the result" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#000000;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="565" width="235" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="575" width="20" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
